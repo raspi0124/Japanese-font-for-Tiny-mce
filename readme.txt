@@ -1,8 +1,8 @@
 === Japanese font for WordPress(Previously: Japanese Font for TinyMCE) ===
 Contributors: raspi0124
 Tags: TinyMCE,fonts,font,Japanese,JapaneseFont,Gutenberg
-Requires at least: 5.0
-Tested up to: 6.1.1
+Requires at least: 5.1
+Tested up to: 6.7
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,3 +98,4 @@ Version 4.25: Made Gutenberg option default & Upgraded required version to >5.0 
 Version 4.26: Reverted previous change of making Gutenbeg Option default as it caused fatal damage to certain websites.
 Version 4.27: Improved url generation method for dismissing notices & Fixed: Advanced warning not being dissmissable.
 Version 4.28: Fixed Bug: Notices not being dissmissable when wordpress is installed in subdirectory. (Thanks to @tw_toto for reporting this bug)
+Version 4.29: Executed a major overhaul (Part 1 of 2) to improve the developer experience. ToDo: Execute overhaul for Block Editor Part.
